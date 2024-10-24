@@ -24,3 +24,6 @@ run the start script with `python3 start.py` and follow the prompts
 the program also supports pygame windows and plots for easier visual analysis. simply install the pygame script package and run the start script again with the pygame parameters provided
 you can also run the `help` file to see the variety of commands available
 
+### installation
+
+simply clone the repository by `git clone https://github.com/rccraft1/xnet.git`
