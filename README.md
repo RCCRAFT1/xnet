@@ -3,6 +3,7 @@
 ### about
 
 xnet is a python-based application to facilitate the tracking, analysis, and identification of orbital objects (satellites, etc.)
+this program is like STRF, however it actually works under a venv for python3.
 
 ### data formats
 
